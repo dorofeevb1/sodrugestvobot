@@ -1,0 +1,660 @@
+2025-06-10 13:24:17,841 - INFO - Создан новый пользователь: 1486019423
+2025-06-10 13:24:18,434 - INFO - Update id=714945655 is handled. Duration 607 ms by bot id=7631678487
+2025-06-10 13:24:20,325 - INFO - Update id=714945656 is not handled. Duration 1 ms by bot id=7631678487
+2025-06-10 13:24:22,156 - INFO - Update id=714945657 is handled. Duration 87 ms by bot id=7631678487
+2025-06-10 13:24:23,485 - INFO - Update id=714945658 is handled. Duration 79 ms by bot id=7631678487
+2025-06-10 13:24:30,038 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:24:35,913 - INFO - Название товара: GTOOL
+Зачистной круг CD чёрный 60*15*6 на шпиндиле 1шт 11812
+2025-06-10 13:24:35,983 - INFO - Цена со скидкой: 288 ₽
+2025-06-10 13:24:36,019 - INFO - Цена без скидки: 294 ₽
+2025-06-10 13:24:36,132 - INFO - Update id=714945659 is handled. Duration 8049 ms by bot id=7631678487
+2025-06-10 13:24:59,648 - INFO - Update id=714945660 is handled. Duration 149 ms by bot id=7631678487
+2025-06-10 13:25:01,891 - INFO - Update id=714945661 is not handled. Duration 0 ms by bot id=7631678487
+2025-06-10 13:25:14,017 - ERROR - Ошибка при генерации анализа: 'discount'
+2025-06-10 13:25:14,017 - ERROR - Ошибка при генерации анализа: 'discount'
+2025-06-10 13:25:14,119 - INFO - Update id=714945662 is handled. Duration 258 ms by bot id=7631678487
+2025-06-10 13:26:54,946 - WARNING - Received SIGINT signal
+2025-06-10 13:26:54,947 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:26:54,947 - INFO - Polling stopped
+2025-06-10 13:26:55,198 - INFO - Бот остановлен
+2025-06-10 13:26:59,300 - INFO - База данных успешно инициализирована
+2025-06-10 13:26:59,300 - INFO - Запуск бота...
+2025-06-10 13:26:59,300 - INFO - Start polling
+2025-06-10 13:26:59,510 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:27:08,035 - INFO - Создан новый пользователь: 1486019423
+2025-06-10 13:27:08,245 - INFO - Update id=714945663 is handled. Duration 225 ms by bot id=7631678487
+2025-06-10 13:27:10,517 - INFO - Update id=714945664 is handled. Duration 92 ms by bot id=7631678487
+2025-06-10 13:27:12,104 - INFO - Update id=714945665 is handled. Duration 93 ms by bot id=7631678487
+2025-06-10 13:27:13,726 - INFO - Update id=714945666 is handled. Duration 227 ms by bot id=7631678487
+2025-06-10 13:27:18,800 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:27:24,181 - INFO - Название товара: GTOOL
+Зачистной круг CD чёрный 60*15*6 на шпиндиле 1шт 11812
+2025-06-10 13:27:24,227 - INFO - Цена со скидкой: 288 ₽
+2025-06-10 13:27:24,249 - INFO - Цена без скидки: 294 ₽
+2025-06-10 13:27:24,338 - INFO - Update id=714945667 is handled. Duration 7171 ms by bot id=7631678487
+2025-06-10 13:27:28,027 - INFO - Update id=714945668 is handled. Duration 87 ms by bot id=7631678487
+2025-06-10 13:27:31,776 - INFO - Update id=714945669 is handled. Duration 197 ms by bot id=7631678487
+2025-06-10 13:27:33,702 - ERROR - Ошибка при работе с базой данных: type object 'PriceHistory' has no attribute 'created_at'
+2025-06-10 13:27:33,706 - ERROR - Ошибка при генерации анализа: type object 'PriceHistory' has no attribute 'created_at'
+2025-06-10 13:27:33,706 - ERROR - Ошибка при генерации анализа: type object 'PriceHistory' has no attribute 'created_at'
+2025-06-10 13:27:33,790 - INFO - Update id=714945670 is handled. Duration 249 ms by bot id=7631678487
+2025-06-10 13:28:55,560 - WARNING - Received SIGINT signal
+2025-06-10 13:28:55,561 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:28:55,561 - INFO - Polling stopped
+2025-06-10 13:28:55,789 - WARNING - Received SIGINT signal
+2025-06-10 13:28:55,811 - INFO - Бот остановлен
+2025-06-10 13:29:03,440 - INFO - База данных успешно инициализирована
+2025-06-10 13:29:03,440 - INFO - Запуск бота...
+2025-06-10 13:29:03,440 - INFO - Start polling
+2025-06-10 13:29:03,662 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:29:16,690 - INFO - Создан новый пользователь: 1486019423
+2025-06-10 13:29:17,098 - INFO - Update id=714945671 is handled. Duration 424 ms by bot id=7631678487
+2025-06-10 13:29:25,052 - INFO - Update id=714945672 is handled. Duration 100 ms by bot id=7631678487
+2025-06-10 13:29:26,378 - INFO - Update id=714945673 is handled. Duration 81 ms by bot id=7631678487
+2025-06-10 13:29:31,735 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:29:37,552 - INFO - Название товара: GTOOL
+Зачистной круг CD чёрный 60*15*6 на шпиндиле 1шт 11812
+2025-06-10 13:29:37,613 - INFO - Цена со скидкой: 288 ₽
+2025-06-10 13:29:37,647 - INFO - Цена без скидки: 294 ₽
+2025-06-10 13:29:37,734 - INFO - Update id=714945674 is handled. Duration 7760 ms by bot id=7631678487
+2025-06-10 13:29:40,781 - INFO - Update id=714945675 is handled. Duration 88 ms by bot id=7631678487
+2025-06-10 13:29:43,719 - INFO - Update id=714945676 is handled. Duration 109 ms by bot id=7631678487
+2025-06-10 13:29:45,430 - ERROR - Ошибка при работе с базой данных: type object 'PriceHistory' has no attribute 'created_at'
+2025-06-10 13:29:45,436 - ERROR - Ошибка при генерации анализа: type object 'PriceHistory' has no attribute 'created_at'
+2025-06-10 13:29:45,436 - ERROR - Ошибка при генерации анализа: type object 'PriceHistory' has no attribute 'created_at'
+2025-06-10 13:29:45,526 - INFO - Update id=714945677 is handled. Duration 303 ms by bot id=7631678487
+2025-06-10 13:30:26,593 - WARNING - Received SIGINT signal
+2025-06-10 13:30:26,594 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:30:26,594 - INFO - Polling stopped
+2025-06-10 13:30:26,845 - INFO - Бот остановлен
+2025-06-10 13:34:01,928 - INFO - База данных успешно инициализирована
+2025-06-10 13:34:01,928 - INFO - Запуск бота...
+2025-06-10 13:34:01,929 - INFO - Start polling
+2025-06-10 13:34:07,109 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:34:12,611 - INFO - Обновлена активность пользователя: 1486019423
+2025-06-10 13:34:14,513 - INFO - Update id=714945678 is handled. Duration 1917 ms by bot id=7631678487
+2025-06-10 13:34:15,700 - INFO - Update id=714945679 is handled. Duration 1377 ms by bot id=7631678487
+2025-06-10 13:34:18,635 - INFO - Сгенерирован анализ для пользователя 1486019423
+2025-06-10 13:34:18,635 - ERROR - Ошибка при генерации анализа: 2 validation errors for SendDocument
+document.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...3_20250610_133418.xlsx'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+document.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...3_20250610_133418.xlsx'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/is_instance_of
+2025-06-10 13:34:18,730 - INFO - Update id=714945680 is handled. Duration 541 ms by bot id=7631678487
+2025-06-10 13:35:11,761 - WARNING - Received SIGINT signal
+2025-06-10 13:35:11,762 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:35:11,762 - INFO - Polling stopped
+2025-06-10 13:35:11,999 - WARNING - Received SIGINT signal
+2025-06-10 13:35:12,014 - INFO - Бот остановлен
+2025-06-10 13:35:14,446 - INFO - База данных успешно инициализирована
+2025-06-10 13:35:14,446 - INFO - Запуск бота...
+2025-06-10 13:35:14,447 - INFO - Start polling
+2025-06-10 13:35:20,223 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:35:20,596 - INFO - Обновлена активность пользователя: 1486019423
+2025-06-10 13:35:22,465 - INFO - Update id=714945681 is handled. Duration 1885 ms by bot id=7631678487
+2025-06-10 13:35:25,205 - INFO - Update id=714945682 is handled. Duration 204 ms by bot id=7631678487
+2025-06-10 13:35:26,829 - INFO - Сгенерирован анализ для пользователя 1486019423
+2025-06-10 13:35:27,753 - INFO - Update id=714945683 is handled. Duration 1408 ms by bot id=7631678487
+2025-06-10 13:38:03,584 - WARNING - Received SIGINT signal
+2025-06-10 13:38:03,585 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:38:03,585 - INFO - Polling stopped
+2025-06-10 13:38:03,835 - INFO - Бот остановлен
+2025-06-10 13:38:06,150 - INFO - База данных успешно инициализирована
+2025-06-10 13:38:06,150 - INFO - Запуск бота...
+2025-06-10 13:38:06,150 - INFO - Start polling
+2025-06-10 13:38:11,330 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:38:11,956 - INFO - Обновлена активность пользователя: 1486019423
+2025-06-10 13:38:12,162 - INFO - Update id=714945684 is handled. Duration 225 ms by bot id=7631678487
+2025-06-10 13:38:13,874 - INFO - Update id=714945685 is handled. Duration 90 ms by bot id=7631678487
+2025-06-10 13:38:24,638 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815285/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:25,640 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815283/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:26,641 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815282/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:27,643 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39148190/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:28,644 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39148188/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:29,646 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815280/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:30,647 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/174177940/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:31,648 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39633335/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:32,649 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/267915206/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:33,650 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39148187/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:34,651 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815281/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:35,653 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39632042/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:36,653 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39148191/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:37,654 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/61825746/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:38,656 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103068041/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:39,657 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39148189/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:40,658 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/61825698/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:41,659 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/243546933/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:42,440 - WARNING - Received SIGINT signal
+2025-06-10 13:38:42,441 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:38:42,441 - INFO - Polling stopped
+2025-06-10 13:38:42,660 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/252199470/detail.aspx: ParserService.get_product_data() missing 1 required positional argument: 'platform'
+2025-06-10 13:38:42,682 - WARNING - Received SIGINT signal
+2025-06-10 13:38:42,693 - INFO - Бот остановлен
+2025-06-10 13:38:42,693 - INFO - Update id=714945686 is not handled. Duration 18178 ms by bot id=7631678487
+2025-06-10 13:39:22,972 - INFO - База данных успешно инициализирована
+2025-06-10 13:39:22,972 - INFO - Запуск бота...
+2025-06-10 13:39:22,973 - INFO - Start polling
+2025-06-10 13:39:25,031 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:39:25,313 - INFO - Update id=714945687 is handled. Duration 212 ms by bot id=7631678487
+2025-06-10 13:40:36,257 - WARNING - Received SIGINT signal
+2025-06-10 13:40:36,258 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:40:36,258 - INFO - Polling stopped
+2025-06-10 13:40:36,510 - INFO - Бот остановлен
+2025-06-10 13:40:39,077 - INFO - База данных успешно инициализирована
+2025-06-10 13:40:39,077 - INFO - Запуск бота...
+2025-06-10 13:40:39,078 - INFO - Start polling
+2025-06-10 13:40:39,326 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:40:44,064 - INFO - Обновлена активность пользователя: 1486019423
+2025-06-10 13:40:44,409 - INFO - Update id=714945688 is handled. Duration 359 ms by bot id=7631678487
+2025-06-10 13:40:54,081 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:41:00,225 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 1мм 1000 шт
+2025-06-10 13:41:00,271 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:41:00,299 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:41:02,924 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:41:07,583 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 1,4мм 1000 шт
+2025-06-10 13:41:07,629 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:41:07,659 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:41:10,202 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:41:15,084 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 0,7мм 1000 шт
+2025-06-10 13:41:15,137 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:41:15,161 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:41:25,097 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:41:35,695 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 1,4мм 500 штук
+2025-06-10 13:41:35,727 - INFO - Цена со скидкой: 1 194 ₽
+2025-06-10 13:41:35,749 - INFO - Цена без скидки: 1 219 ₽
+2025-06-10 13:41:43,391 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:41:49,349 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 1мм 500 штук
+2025-06-10 13:41:49,416 - INFO - Цена со скидкой: 1 229 ₽
+2025-06-10 13:41:49,459 - INFO - Цена без скидки: 1 255 ₽
+2025-06-10 13:41:51,891 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:41:59,367 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 2мм 1000 шт
+2025-06-10 13:41:59,421 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:41:59,454 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:42:06,947 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:42:18,782 - INFO - Название товара: Завод пластик Руси
+Клин СВП ProfiMini
+2025-06-10 13:42:18,810 - INFO - Цена со скидкой: 806 ₽
+2025-06-10 13:42:18,827 - INFO - Цена без скидки: 823 ₽
+2025-06-10 13:42:23,707 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:42:47,206 - INFO - Название товара: Завод пластик Руси
+Клин СВП ProfiMini
+2025-06-10 13:42:47,260 - INFO - Цена со скидкой: 806 ₽
+2025-06-10 13:42:47,278 - INFO - Цена без скидки: 823 ₽
+2025-06-10 13:42:54,783 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:44:04,333 - ERROR - Ошибка при инициализации драйвера: Message: session not created: cannot connect to chrome at 127.0.0.1:51307
+from chrome not reachable
+Stacktrace:
+#0 0x5f98c2e6cc4a <unknown>
+#1 0x5f98c2912533 <unknown>
+#2 0x5f98c28fdeb3 <unknown>
+#3 0x5f98c2951d5c <unknown>
+#4 0x5f98c29479b3 <unknown>
+#5 0x5f98c29988b6 <unknown>
+#6 0x5f98c2997f76 <unknown>
+#7 0x5f98c2989c03 <unknown>
+#8 0x5f98c295647b <unknown>
+#9 0x5f98c29570e1 <unknown>
+#10 0x5f98c2e313fb <unknown>
+#11 0x5f98c2e3532f <unknown>
+#12 0x5f98c2e18f39 <unknown>
+#13 0x5f98c2e35ec8 <unknown>
+#14 0x5f98c2dfd68f <unknown>
+#15 0x5f98c2e5a2b8 <unknown>
+#16 0x5f98c2e5a496 <unknown>
+#17 0x5f98c2e6bb26 <unknown>
+#18 0x7f451113b7eb <unknown>
+#19 0x7f45111bf18c <unknown>
+
+2025-06-10 13:44:04,334 - ERROR - Ошибка при парсинге страницы Wildberries https://www.wildberries.ru/catalog/267915206/detail.aspx: Message: session not created: cannot connect to chrome at 127.0.0.1:51307
+from chrome not reachable
+Stacktrace:
+#0 0x5f98c2e6cc4a <unknown>
+#1 0x5f98c2912533 <unknown>
+#2 0x5f98c28fdeb3 <unknown>
+#3 0x5f98c2951d5c <unknown>
+#4 0x5f98c29479b3 <unknown>
+#5 0x5f98c29988b6 <unknown>
+#6 0x5f98c2997f76 <unknown>
+#7 0x5f98c2989c03 <unknown>
+#8 0x5f98c295647b <unknown>
+#9 0x5f98c29570e1 <unknown>
+#10 0x5f98c2e313fb <unknown>
+#11 0x5f98c2e3532f <unknown>
+#12 0x5f98c2e18f39 <unknown>
+#13 0x5f98c2e35ec8 <unknown>
+#14 0x5f98c2dfd68f <unknown>
+#15 0x5f98c2e5a2b8 <unknown>
+#16 0x5f98c2e5a496 <unknown>
+#17 0x5f98c2e6bb26 <unknown>
+#18 0x7f451113b7eb <unknown>
+#19 0x7f45111bf18c <unknown>
+
+2025-06-10 13:44:04,334 - ERROR - Ошибка при получении данных о товаре: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:44:04,334 - ERROR - Ошибка при парсинге товара: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:44:04,334 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/267915206/detail.aspx: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:44:04,336 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-06-10 13:44:04,336 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7631678487)
+2025-06-10 13:44:06,762 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:45:16,127 - ERROR - Ошибка при инициализации драйвера: Message: session not created: cannot connect to chrome at 127.0.0.1:46475
+from chrome not reachable
+Stacktrace:
+#0 0x6010b8747c4a <unknown>
+#1 0x6010b81ed533 <unknown>
+#2 0x6010b81d8eb3 <unknown>
+#3 0x6010b822cd5c <unknown>
+#4 0x6010b82229b3 <unknown>
+#5 0x6010b82738b6 <unknown>
+#6 0x6010b8272f76 <unknown>
+#7 0x6010b8264c03 <unknown>
+#8 0x6010b823147b <unknown>
+#9 0x6010b82320e1 <unknown>
+#10 0x6010b870c3fb <unknown>
+#11 0x6010b871032f <unknown>
+#12 0x6010b86f3f39 <unknown>
+#13 0x6010b8710ec8 <unknown>
+#14 0x6010b86d868f <unknown>
+#15 0x6010b87352b8 <unknown>
+#16 0x6010b8735496 <unknown>
+#17 0x6010b8746b26 <unknown>
+#18 0x73dd642967eb <unknown>
+#19 0x73dd6431a18c <unknown>
+
+2025-06-10 13:45:16,127 - ERROR - Ошибка при парсинге страницы Wildberries https://www.wildberries.ru/catalog/39148187/detail.aspx: Message: session not created: cannot connect to chrome at 127.0.0.1:46475
+from chrome not reachable
+Stacktrace:
+#0 0x6010b8747c4a <unknown>
+#1 0x6010b81ed533 <unknown>
+#2 0x6010b81d8eb3 <unknown>
+#3 0x6010b822cd5c <unknown>
+#4 0x6010b82229b3 <unknown>
+#5 0x6010b82738b6 <unknown>
+#6 0x6010b8272f76 <unknown>
+#7 0x6010b8264c03 <unknown>
+#8 0x6010b823147b <unknown>
+#9 0x6010b82320e1 <unknown>
+#10 0x6010b870c3fb <unknown>
+#11 0x6010b871032f <unknown>
+#12 0x6010b86f3f39 <unknown>
+#13 0x6010b8710ec8 <unknown>
+#14 0x6010b86d868f <unknown>
+#15 0x6010b87352b8 <unknown>
+#16 0x6010b8735496 <unknown>
+#17 0x6010b8746b26 <unknown>
+#18 0x73dd642967eb <unknown>
+#19 0x73dd6431a18c <unknown>
+
+2025-06-10 13:45:16,127 - ERROR - Ошибка при получении данных о товаре: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:45:16,127 - ERROR - Ошибка при парсинге товара: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:45:16,128 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39148187/detail.aspx: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:45:18,513 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:46:18,925 - ERROR - Ошибка при инициализации драйвера: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-06-10 13:46:18,925 - ERROR - Ошибка при парсинге страницы Wildberries https://www.wildberries.ru/catalog/103815281/detail.aspx: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-06-10 13:46:18,925 - ERROR - Ошибка при получении данных о товаре: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:46:18,925 - ERROR - Ошибка при парсинге товара: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:46:18,925 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815281/detail.aspx: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:46:18,927 - INFO - Connection established (tryings = 1, bot id = 7631678487)
+2025-06-10 13:46:18,928 - WARNING - Received SIGINT signal
+2025-06-10 13:46:18,928 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:46:18,928 - INFO - Polling stopped
+2025-06-10 13:46:19,162 - WARNING - Received SIGINT signal
+2025-06-10 13:46:19,182 - INFO - Бот остановлен
+2025-06-10 13:46:19,182 - INFO - Update id=714945689 is not handled. Duration 333335 ms by bot id=7631678487
+2025-06-10 13:47:29,697 - INFO - База данных успешно инициализирована
+2025-06-10 13:47:29,697 - INFO - Запуск бота...
+2025-06-10 13:47:29,697 - INFO - Start polling
+2025-06-10 13:47:29,888 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:47:38,827 - INFO - Update id=714945690 is handled. Duration 1104 ms by bot id=7631678487
+2025-06-10 13:48:01,413 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:48:28,696 - ERROR - Ошибка при инициализации драйвера: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-06-10 13:48:28,696 - ERROR - Ошибка при парсинге страницы Wildberries https://www.wildberries.ru/catalog/103815285/detail.aspx: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-06-10 13:48:28,696 - ERROR - Ошибка при получении данных о товаре: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:48:28,696 - ERROR - Ошибка при парсинге товара: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:48:28,696 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815285/detail.aspx: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 13:48:28,697 - WARNING - Received SIGINT signal
+2025-06-10 13:48:28,697 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:48:28,697 - INFO - Polling stopped
+2025-06-10 13:48:28,948 - INFO - Бот остановлен
+2025-06-10 13:48:28,948 - INFO - Update id=714945691 is not handled. Duration 29200 ms by bot id=7631678487
+2025-06-10 13:48:37,346 - INFO - База данных успешно инициализирована
+2025-06-10 13:48:37,347 - INFO - Запуск бота...
+2025-06-10 13:48:37,347 - INFO - Start polling
+2025-06-10 13:48:37,571 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 13:48:44,527 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:48:50,837 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 1мм 1000 шт
+2025-06-10 13:48:50,899 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:48:50,919 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:48:50,939 - ERROR - Ошибка при работе с базой данных: Товар с URL https://www.wildberries.ru/catalog/103815285/detail.aspx уже существует
+2025-06-10 13:48:50,939 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815285/detail.aspx: Товар с URL https://www.wildberries.ru/catalog/103815285/detail.aspx уже существует
+2025-06-10 13:48:53,361 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:48:57,997 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 1,4мм 1000 шт
+2025-06-10 13:48:58,061 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:48:58,085 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:48:58,087 - ERROR - Ошибка при работе с базой данных: Товар с URL https://www.wildberries.ru/catalog/103815283/detail.aspx уже существует
+2025-06-10 13:48:58,087 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815283/detail.aspx: Товар с URL https://www.wildberries.ru/catalog/103815283/detail.aspx уже существует
+2025-06-10 13:49:00,542 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:49:04,948 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 0,7мм 1000 шт
+2025-06-10 13:49:05,004 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:49:05,036 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:49:05,038 - ERROR - Ошибка при работе с базой данных: Товар с URL https://www.wildberries.ru/catalog/103815282/detail.aspx уже существует
+2025-06-10 13:49:05,038 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815282/detail.aspx: Товар с URL https://www.wildberries.ru/catalog/103815282/detail.aspx уже существует
+2025-06-10 13:49:07,417 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:49:13,278 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 1,4мм 500 штук
+2025-06-10 13:49:13,313 - INFO - Цена со скидкой: 1 194 ₽
+2025-06-10 13:49:13,335 - INFO - Цена без скидки: 1 219 ₽
+2025-06-10 13:49:13,337 - ERROR - Ошибка при работе с базой данных: Товар с URL https://www.wildberries.ru/catalog/39148190/detail.aspx уже существует
+2025-06-10 13:49:13,337 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39148190/detail.aspx: Товар с URL https://www.wildberries.ru/catalog/39148190/detail.aspx уже существует
+2025-06-10 13:49:15,799 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:49:20,283 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 1мм 500 штук
+2025-06-10 13:49:20,345 - INFO - Цена со скидкой: 1 229 ₽
+2025-06-10 13:49:20,375 - INFO - Цена без скидки: 1 255 ₽
+2025-06-10 13:49:20,377 - ERROR - Ошибка при работе с базой данных: Товар с URL https://www.wildberries.ru/catalog/39148188/detail.aspx уже существует
+2025-06-10 13:49:20,378 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39148188/detail.aspx: Товар с URL https://www.wildberries.ru/catalog/39148188/detail.aspx уже существует
+2025-06-10 13:49:22,804 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:49:27,309 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 2мм 1000 шт
+2025-06-10 13:49:27,364 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:49:27,405 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:49:27,408 - ERROR - Ошибка при работе с базой данных: Товар с URL https://www.wildberries.ru/catalog/103815280/detail.aspx уже существует
+2025-06-10 13:49:27,408 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/103815280/detail.aspx: Товар с URL https://www.wildberries.ru/catalog/103815280/detail.aspx уже существует
+2025-06-10 13:49:29,874 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:49:35,872 - INFO - Название товара: Завод пластик Руси
+Клин СВП ProfiMini
+2025-06-10 13:49:35,935 - INFO - Цена со скидкой: 806 ₽
+2025-06-10 13:49:36,004 - INFO - Цена без скидки: 823 ₽
+2025-06-10 13:49:36,008 - ERROR - Ошибка при работе с базой данных: Товар с URL https://www.wildberries.ru/catalog/174177940/detail.aspx уже существует
+2025-06-10 13:49:36,008 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/174177940/detail.aspx: Товар с URL https://www.wildberries.ru/catalog/174177940/detail.aspx уже существует
+2025-06-10 13:49:38,433 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:49:43,054 - INFO - Название товара: Завод пластик Руси
+Клин СВП ProfiMini
+2025-06-10 13:49:43,157 - INFO - Цена со скидкой: 806 ₽
+2025-06-10 13:49:43,221 - INFO - Цена без скидки: 823 ₽
+2025-06-10 13:49:43,223 - ERROR - Ошибка при работе с базой данных: Товар с URL https://www.wildberries.ru/catalog/39633335/detail.aspx уже существует
+2025-06-10 13:49:43,224 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39633335/detail.aspx: Товар с URL https://www.wildberries.ru/catalog/39633335/detail.aspx уже существует
+2025-06-10 13:49:45,745 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:49:50,183 - INFO - Название товара: Завод пластик Руси
+Щипцы клещи для плитки
+2025-06-10 13:49:50,257 - INFO - Цена со скидкой: 1 292 ₽
+2025-06-10 13:49:50,292 - INFO - Цена без скидки: 1 319 ₽
+2025-06-10 13:49:52,775 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:49:58,717 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 0,7мм 500 штук
+2025-06-10 13:49:58,789 - INFO - Цена со скидкой: 1 194 ₽
+2025-06-10 13:49:58,819 - INFO - Цена без скидки: 1 219 ₽
+2025-06-10 13:50:01,308 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:50:05,847 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMini (ворота) 1,2мм 1000 шт
+2025-06-10 13:50:05,897 - INFO - Цена со скидкой: 2 268 ₽
+2025-06-10 13:50:05,917 - INFO - Цена без скидки: 2 315 ₽
+2025-06-10 13:50:08,394 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:50:12,898 - INFO - Название товара: Завод пластик Руси
+Щипцы клещи для плитки
+2025-06-10 13:50:12,973 - INFO - Цена со скидкой: 1 455 ₽
+2025-06-10 13:50:13,005 - INFO - Цена без скидки: 1 485 ₽
+2025-06-10 13:50:15,446 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:50:21,301 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 2мм 500 штук
+2025-06-10 13:50:21,358 - INFO - Цена со скидкой: 1 194 ₽
+2025-06-10 13:50:21,393 - INFO - Цена без скидки: 1 219 ₽
+2025-06-10 13:50:23,863 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:50:28,318 - INFO - Название товара: Завод пластик Руси
+Зажим СВП стандарт для плитки 1,5мм 1000 штук
+2025-06-10 13:50:28,372 - INFO - Цена со скидкой: 1 785 ₽
+2025-06-10 13:50:28,400 - INFO - Цена без скидки: 1 822 ₽
+2025-06-10 13:50:30,811 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:50:35,374 - INFO - Название товара: Завод пластик Руси
+Клин СВП ProfiMini
+2025-06-10 13:50:35,443 - INFO - Цена со скидкой: 806 ₽
+2025-06-10 13:50:35,474 - INFO - Цена без скидки: 823 ₽
+2025-06-10 13:50:37,925 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:50:43,980 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 1,2мм 500 штук
+2025-06-10 13:50:44,023 - INFO - Цена со скидкой: 1 194 ₽
+2025-06-10 13:50:44,047 - INFO - Цена без скидки: 1 219 ₽
+2025-06-10 13:50:46,500 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:50:51,196 - INFO - Название товара: Завод пластик Руси
+Зажим СВП Кольцо 1,5мм 1000шт
+2025-06-10 13:50:51,242 - INFO - Цена со скидкой: 1 785 ₽
+2025-06-10 13:50:51,274 - INFO - Цена без скидки: 1 822 ₽
+2025-06-10 13:50:53,705 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:50:58,713 - INFO - Название товара: Завод пластик Руси
+Подковы многоразовые для укладки плитки 1,5 мм
+2025-06-10 13:50:58,765 - INFO - Цена со скидкой: 346 ₽
+2025-06-10 13:50:58,793 - INFO - Цена без скидки: 354 ₽
+2025-06-10 13:51:01,243 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:51:07,201 - INFO - Название товара: Завод пластик Руси
+Многоразовая подложка под клин СВП
+2025-06-10 13:51:07,266 - INFO - Цена со скидкой: 298 ₽
+2025-06-10 13:51:07,298 - INFO - Цена без скидки: 305 ₽
+2025-06-10 13:51:09,751 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:51:15,893 - INFO - Название товара: Завод пластик Руси
+Подковы многоразовые для укладки плитки 1 мм
+2025-06-10 13:51:15,958 - INFO - Цена со скидкой: 346 ₽
+2025-06-10 13:51:15,993 - INFO - Цена без скидки: 354 ₽
+2025-06-10 13:51:18,370 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:51:25,971 - INFO - Название товара: Завод пластик Руси
+Маяки для наливного пола (40шт)
+2025-06-10 13:51:26,051 - INFO - Цена со скидкой: 555 ₽
+2025-06-10 13:51:26,076 - INFO - Цена без скидки: 567 ₽
+2025-06-10 13:51:28,530 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:51:39,366 - INFO - Название товара: Завод пластик Руси
+Крепление для штукатурных маяков
+2025-06-10 13:51:39,417 - INFO - Цена со скидкой: 469 ₽
+2025-06-10 13:51:39,444 - INFO - Цена без скидки: 479 ₽
+2025-06-10 13:51:41,871 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:51:58,903 - INFO - Название товара: Завод пластик Руси
+Клин СВП ProfiMini
+2025-06-10 13:51:58,919 - INFO - Цена со скидкой: 416 ₽
+2025-06-10 13:51:58,936 - INFO - Цена без скидки: 425 ₽
+2025-06-10 13:52:01,423 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:52:14,858 - INFO - Название товара: Завод пластик Руси
+Подковы многоразовые для укладки плитки 2 мм
+2025-06-10 13:52:14,872 - INFO - Цена со скидкой: 346 ₽
+2025-06-10 13:52:14,887 - INFO - Цена без скидки: 354 ₽
+2025-06-10 13:52:17,354 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:52:32,055 - INFO - Название товара: Завод пластик Руси
+Набор СВП (Зажим 50шт, клин 50шт) 2мм
+2025-06-10 13:52:32,069 - INFO - Цена со скидкой: 357 ₽
+2025-06-10 13:52:32,084 - INFO - Цена без скидки: 365 ₽
+2025-06-10 13:52:34,466 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:52:48,898 - INFO - Название товара: Завод пластик Руси
+Зажим СВП стандарт для плитки 1,5мм 500 штук
+2025-06-10 13:52:48,916 - INFO - Цена со скидкой: 936 ₽
+2025-06-10 13:52:48,934 - INFO - Цена без скидки: 956 ₽
+2025-06-10 13:52:51,361 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:53:07,299 - INFO - Название товара: Завод пластик Руси
+Зажим для плитки 1мм 1000шт
+2025-06-10 13:53:07,314 - INFO - Цена со скидкой: 1 785 ₽
+2025-06-10 13:53:07,329 - INFO - Цена без скидки: 1 822 ₽
+2025-06-10 13:53:09,792 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:53:23,970 - INFO - Название товара: Завод пластик Руси
+Зажим СВП Кольцо 1,5мм 500шт
+2025-06-10 13:53:23,984 - INFO - Цена со скидкой: 936 ₽
+2025-06-10 13:53:24,000 - INFO - Цена без скидки: 956 ₽
+2025-06-10 13:53:26,385 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:53:41,508 - INFO - Название товара: Завод пластик Руси
+Набор СВП (Зажим 50шт, клин 50шт) 1мм
+2025-06-10 13:54:04,071 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:54:20,362 - INFO - Название товара: Завод пластик Руси
+Набор СВП (Зажим 50шт, клин 50шт) 1,4мм
+2025-06-10 13:54:20,378 - INFO - Цена со скидкой: 357 ₽
+2025-06-10 13:54:20,394 - INFO - Цена без скидки: 365 ₽
+2025-06-10 13:54:22,865 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:54:37,838 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 1мм 100 штук
+2025-06-10 13:54:37,852 - INFO - Цена со скидкой: 338 ₽
+2025-06-10 13:54:37,868 - INFO - Цена без скидки: 345 ₽
+2025-06-10 13:54:40,352 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:54:53,479 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 1,4мм 100 штук
+2025-06-10 13:54:53,494 - INFO - Цена со скидкой: 338 ₽
+2025-06-10 13:54:53,508 - INFO - Цена без скидки: 345 ₽
+2025-06-10 13:54:56,016 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:55:11,892 - INFO - Название товара: Завод пластик Руси
+Клин СВП Стандарт
+2025-06-10 13:55:11,906 - INFO - Цена со скидкой: 841 ₽
+2025-06-10 13:55:11,920 - INFO - Цена без скидки: 859 ₽
+2025-06-10 13:55:14,719 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:55:28,389 - INFO - Название товара: Завод пластик Руси
+Подковы многоразовые для укладки плитки 3 мм
+2025-06-10 13:55:28,404 - INFO - Цена со скидкой: 346 ₽
+2025-06-10 13:55:28,418 - INFO - Цена без скидки: 354 ₽
+2025-06-10 13:55:30,791 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:55:45,743 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 2мм 100 штук
+2025-06-10 13:55:45,758 - INFO - Цена со скидкой: 338 ₽
+2025-06-10 13:55:45,783 - INFO - Цена без скидки: 345 ₽
+2025-06-10 13:55:48,400 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:56:01,455 - INFO - Название товара: Завод пластик Руси
+Крепление для штукатурных маяков
+2025-06-10 13:56:01,470 - INFO - Цена со скидкой: 325 ₽
+2025-06-10 13:56:01,486 - INFO - Цена без скидки: 332 ₽
+2025-06-10 13:56:03,923 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:56:20,910 - INFO - Название товара: Завод пластик Руси
+Зажим для плитки Клин Система выравнивания СВП Крестики
+2025-06-10 13:56:43,448 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:57:00,812 - INFO - Название товара: Завод пластик Руси
+Зажим для плитки Клин Система выравнивания СВП Крестики
+2025-06-10 13:57:23,392 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:57:39,005 - INFO - Название товара: Завод пластик Руси
+Зажим для плитки 1мм 500шт
+2025-06-10 13:57:39,020 - INFO - Цена со скидкой: 936 ₽
+2025-06-10 13:57:39,035 - INFO - Цена без скидки: 956 ₽
+2025-06-10 13:57:41,543 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:57:54,959 - INFO - Название товара: Завод пластик Руси
+Набор СВП (Зажим 50шт, клин 50шт) 0,7мм
+2025-06-10 13:57:54,974 - INFO - Цена со скидкой: 357 ₽
+2025-06-10 13:57:54,988 - INFO - Цена без скидки: 365 ₽
+2025-06-10 13:57:57,510 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:58:12,137 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 0,7мм 100 штук
+2025-06-10 13:58:12,152 - INFO - Цена со скидкой: 338 ₽
+2025-06-10 13:58:12,167 - INFO - Цена без скидки: 345 ₽
+2025-06-10 13:58:14,765 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:58:30,631 - INFO - Название товара: Завод пластик Руси
+Подковы многоразовые для укладки плитки 2,5 мм
+2025-06-10 13:58:30,647 - INFO - Цена со скидкой: 346 ₽
+2025-06-10 13:58:30,663 - INFO - Цена без скидки: 354 ₽
+2025-06-10 13:58:33,187 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:58:52,416 - INFO - Название товара: Завод пластик Руси
+Зажим СВП ProfiMAXI (ворота) 1мм 200 шт
+2025-06-10 13:58:52,431 - INFO - Цена со скидкой: 972 ₽
+2025-06-10 13:58:52,446 - INFO - Цена без скидки: 992 ₽
+2025-06-10 13:58:54,941 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:59:07,930 - INFO - Название товара: Завод пластик Руси
+Набор СВП (Зажим 50шт, клин 50шт) 1,2мм
+2025-06-10 13:59:07,944 - INFO - Цена со скидкой: 357 ₽
+2025-06-10 13:59:07,959 - INFO - Цена без скидки: 365 ₽
+2025-06-10 13:59:10,471 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:59:24,097 - INFO - Название товара: Завод пластик Руси
+Зажим для плитки Клин Система выравнивания СВП Крестики
+2025-06-10 13:59:24,112 - INFO - Цена со скидкой: 285 ₽
+2025-06-10 13:59:24,127 - INFO - Цена без скидки: 291 ₽
+2025-06-10 13:59:26,685 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:59:40,802 - INFO - Название товара: Завод пластик Руси
+Зажим для плитки Клин Система выравнивания СВП Крестики
+2025-06-10 13:59:40,817 - INFO - Цена со скидкой: 188 ₽
+2025-06-10 13:59:40,832 - INFO - Цена без скидки: 192 ₽
+2025-06-10 13:59:43,365 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 13:59:58,949 - INFO - Название товара: Завод пластик Руси
+Клин СВП ProfiMini
+2025-06-10 13:59:58,963 - INFO - Цена со скидкой: 416 ₽
+2025-06-10 13:59:58,978 - INFO - Цена без скидки: 425 ₽
+2025-06-10 14:00:01,477 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 14:00:15,704 - INFO - Название товара: Завод пластик Руси
+Зажим СВП для плитки 1,2мм 100 штук
+2025-06-10 14:00:15,719 - INFO - Цена со скидкой: 338 ₽
+2025-06-10 14:00:15,733 - INFO - Цена без скидки: 345 ₽
+2025-06-10 14:00:19,215 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 14:01:26,456 - ERROR - Ошибка при инициализации драйвера: Message: session not created: cannot connect to chrome at 127.0.0.1:34311
+from chrome not reachable
+Stacktrace:
+#0 0x557b7ef5fc4a <unknown>
+#1 0x557b7ea05533 <unknown>
+#2 0x557b7e9f0eb3 <unknown>
+#3 0x557b7ea44d5c <unknown>
+#4 0x557b7ea3a9b3 <unknown>
+#5 0x557b7ea8b8b6 <unknown>
+#6 0x557b7ea8af76 <unknown>
+#7 0x557b7ea7cc03 <unknown>
+#8 0x557b7ea4947b <unknown>
+#9 0x557b7ea4a0e1 <unknown>
+#10 0x557b7ef243fb <unknown>
+#11 0x557b7ef2832f <unknown>
+#12 0x557b7ef0bf39 <unknown>
+#13 0x557b7ef28ec8 <unknown>
+#14 0x557b7eef068f <unknown>
+#15 0x557b7ef4d2b8 <unknown>
+#16 0x557b7ef4d496 <unknown>
+#17 0x557b7ef5eb26 <unknown>
+#18 0x71a29e9a07eb <unknown>
+#19 0x71a29ea2418c <unknown>
+
+2025-06-10 14:01:26,456 - ERROR - Ошибка при парсинге страницы Wildberries https://www.wildberries.ru/catalog/39094216/detail.aspx: Message: session not created: cannot connect to chrome at 127.0.0.1:34311
+from chrome not reachable
+Stacktrace:
+#0 0x557b7ef5fc4a <unknown>
+#1 0x557b7ea05533 <unknown>
+#2 0x557b7e9f0eb3 <unknown>
+#3 0x557b7ea44d5c <unknown>
+#4 0x557b7ea3a9b3 <unknown>
+#5 0x557b7ea8b8b6 <unknown>
+#6 0x557b7ea8af76 <unknown>
+#7 0x557b7ea7cc03 <unknown>
+#8 0x557b7ea4947b <unknown>
+#9 0x557b7ea4a0e1 <unknown>
+#10 0x557b7ef243fb <unknown>
+#11 0x557b7ef2832f <unknown>
+#12 0x557b7ef0bf39 <unknown>
+#13 0x557b7ef28ec8 <unknown>
+#14 0x557b7eef068f <unknown>
+#15 0x557b7ef4d2b8 <unknown>
+#16 0x557b7ef4d496 <unknown>
+#17 0x557b7ef5eb26 <unknown>
+#18 0x71a29e9a07eb <unknown>
+#19 0x71a29ea2418c <unknown>
+
+2025-06-10 14:01:26,456 - ERROR - Ошибка при получении данных о товаре: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 14:01:26,456 - ERROR - Ошибка при парсинге товара: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 14:01:26,456 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39094216/detail.aspx: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 14:01:26,459 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-06-10 14:01:26,459 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7631678487)
+2025-06-10 14:01:28,927 - INFO - patching driver executable /home/hanzo/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-10 14:01:42,752 - ERROR - Ошибка при инициализации драйвера: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-06-10 14:01:42,752 - ERROR - Ошибка при парсинге страницы Wildberries https://www.wildberries.ru/catalog/39092799/detail.aspx: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-06-10 14:01:42,752 - ERROR - Ошибка при получении данных о товаре: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 14:01:42,752 - ERROR - Ошибка при парсинге товара: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 14:01:42,752 - ERROR - Ошибка при обработке ссылки https://www.wildberries.ru/catalog/39092799/detail.aspx: cannot access local variable 'data' where it is not associated with a value
+2025-06-10 14:01:42,753 - WARNING - Received SIGINT signal
+2025-06-10 14:01:42,753 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 14:01:42,753 - INFO - Polling stopped
+2025-06-10 14:01:43,004 - INFO - Бот остановлен
+2025-06-10 14:01:43,005 - INFO - Update id=714945692 is not handled. Duration 780179 ms by bot id=7631678487
+2025-06-10 14:02:21,033 - INFO - База данных успешно инициализирована
+2025-06-10 14:02:21,033 - INFO - Запуск бота...
+2025-06-10 14:02:21,034 - INFO - Start polling
+2025-06-10 14:02:21,296 - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 14:02:30,966 - INFO - Update id=714945693 is handled. Duration 9602 ms by bot id=7631678487
+2025-06-10 14:03:36,837 - INFO - Создан новый пользователь: 399888156
+2025-06-10 14:03:36,933 - INFO - Update id=714945694 is handled. Duration 101 ms by bot id=7631678487
+2025-06-10 14:03:40,151 - INFO - Update id=714945695 is handled. Duration 171 ms by bot id=7631678487
+2025-06-10 14:03:48,146 - INFO - Update id=714945696 is handled. Duration 129 ms by bot id=7631678487
+2025-06-10 14:03:49,875 - INFO - Update id=714945697 is handled. Duration 168 ms by bot id=7631678487
+2025-06-10 14:06:03,266 - WARNING - Received SIGINT signal
+2025-06-10 14:06:03,266 - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 14:06:03,266 - INFO - Polling stopped
+2025-06-10 14:06:03,494 - WARNING - Received SIGINT signal
+2025-06-10 14:06:03,517 - INFO - Бот остановлен

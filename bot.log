@@ -1,0 +1,16 @@
+2025-06-10 11:12:21,711 - src.services.price_updater - INFO - Сервис обновления цен запущен
+2025-06-10 11:12:21,711 - root - INFO - Бот запущен
+2025-06-10 11:12:21,712 - aiogram.dispatcher - INFO - Start polling
+2025-06-10 11:12:21,726 - src.services.price_updater - ERROR - Ошибка при обновлении цен: Instance <Product at 0x7733e71452b0> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-06-10 11:12:21,941 - aiogram.dispatcher - INFO - Run polling for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 11:12:26,431 - src.handlers.commands - ERROR - Ошибка в команде start: Instance '<User at 0x7733e715a350>' is not persistent within this Session
+2025-06-10 11:12:26,642 - aiogram.event - INFO - Update id=714945467 is handled. Duration 214 ms by bot id=7631678487
+2025-06-10 11:12:33,094 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-06-10 11:12:33,095 - aiogram.dispatcher - INFO - Polling stopped for bot @LogisticAdvertising1Bot id=7631678487 - 'LogisticAdvertising1Bot'
+2025-06-10 11:12:33,095 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-10 11:15:01,079 - src.services.price_updater - INFO - Сервис обновления цен запущен
+2025-06-10 11:15:01,080 - root - ERROR - Ошибка при запуске бота: object NoneType can't be used in 'await' expression
+2025-06-10 11:15:01,080 - src.services.price_updater - ERROR - Ошибка при обновлении цен: Textual SQL expression 'SELECT * FROM products' should be explicitly declared as text('SELECT * FROM products')
+2025-06-10 11:16:12,798 - src.services.price_updater - INFO - Сервис обновления цен запущен
+2025-06-10 11:16:12,798 - root - ERROR - Ошибка при запуске бота: object NoneType can't be used in 'await' expression
+2025-06-10 11:16:12,799 - src.services.price_updater - ERROR - Ошибка при обновлении цен: Textual SQL expression 'SELECT * FROM products' should be explicitly declared as text('SELECT * FROM products')
